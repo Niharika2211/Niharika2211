@@ -12,7 +12,7 @@
 
 - 💬 Experienced on **AWS cloud, Linux, python, CI/CD , Docker, Kubernetes , Terraform , Ansible, Scripting, Jenkins, Grafana ,Prometheus, ELK*
   
-- 📝 I write articles on [https://medium.com/@bapatla.niharika9]
+- 📝 I write articles on https://medium.com/@bapatla.niharika9
 
 ![nihaji](https://github.com/user-attachments/assets/3101e11c-443d-44c8-91bd-ad786a267ad3)
 
