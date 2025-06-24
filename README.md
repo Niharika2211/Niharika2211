@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niharika Bapatla</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<h3 align="left">Connect with me: in/niha-bapatla/ </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/niha-bapatla/ </h3>
 <p align="left">
 </p>
 
