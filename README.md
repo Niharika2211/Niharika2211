@@ -10,7 +10,7 @@
 - 📫 How to reach me **niharikab3022@gmail.com**
 
 
-- 💬 Experienced on t **AWS cloud, Linux, python, CI/CD , Docker, Kubernetes , Terraform , Ansible, Scripting, Jenkins, Grafana ,Prometheus, ELK*
+- 💬 Experienced on **AWS cloud, Linux, python, CI/CD , Docker, Kubernetes , Terraform , Ansible, Scripting, Jenkins, Grafana ,Prometheus, ELK*
   
 - 📝 I regularly write articles on [https://medium.com/@bapatla.niharika9]
 
