@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niharika Bapatla</h1>
 <h3 align="center">DevOps Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niahrika-Bapatla&label=Profile%20views&color=0e75b6&style=flat" alt="Niha-Bapatla" /> </p>
+
 <h3 align="left">Connect with me: https://www.linkedin.com/in/niha-bapatla/ </h3>
 <p align="left">
 </p>
