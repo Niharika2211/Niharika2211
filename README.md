@@ -41,7 +41,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-green?style=flat-square&logo=jenkins)  
 ![SonarQube](https://img.shields.io/badge/SonarQube-Static%20Analysis-orange?style=flat-square&logo=sonarqube)  
 ![Trivy](https://img.shields.io/badge/Trivy-Image%20Scanning-blueviolet?style=flat-square&logo=aqua-security)  
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-yellow?style=flat-square&logo=owasp
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-yellow?style=flat-square&logo=owasp)
 
 
 
