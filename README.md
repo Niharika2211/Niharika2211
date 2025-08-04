@@ -25,14 +25,23 @@
 ### **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-VPC%2C%20EC2%2C%20IAM%2C%20S3%2C%20ROUTE53%2C%20CLOUDWATCH%2C%20CLOUDFRONT%2C%20SECRETMANAGER-0f1689?style=flat-square&logo=amazonaws)  
 
+
 ### **Infrastructure as Code & Automation**
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-orange?style=flat-square&logo=terraform)  
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-yellow?style=flat-square&logo=ansible)  
 ![Shell Scripting](https://img.shields.io/badge/Shell-Bash%20Scripting-blueviolet?style=flat-square&logo=gnu-bash)
 
 
-
 ### **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-Containerization-purple?style=flat-square&logo=docker)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-orange?style=flat-square&logo=kubernetes)  
 ![Helm](https://img.shields.io/badge/Helm-K8s%20Charts-0f1689?style=flat-square&logo=helm)
+
+### **CI/CD & DevSecOps**
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-green?style=flat-square&logo=jenkins)  
+![SonarQube](https://img.shields.io/badge/SonarQube-Static%20Analysis-orange?style=flat-square&logo=sonarqube)  
+![Trivy](https://img.shields.io/badge/Trivy-Image%20Scanning-blueviolet?style=flat-square&logo=aqua-security)  
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-yellow?style=flat-square&logo=owasp
+
+
+
