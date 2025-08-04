@@ -49,5 +49,11 @@
 ![Trivy](https://img.shields.io/badge/Trivy-Image%20Scanning-blueviolet?style=flat-square&logo=aqua-security)  
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-DAST-yellow?style=flat-square&logo=owasp)
 
+---
+
+### **Monitoring & Logging**
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-blue?style=flat-square&logo=prometheus)  
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-red?style=flat-square&logo=grafana)  
+![EFK Stack](https://img.shields.io/badge/EFK-Logging-lightgrey?style=flat-square&logo=elasticstack)
 
 
