@@ -34,7 +34,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-yellow?style=flat-square&logo=ansible)  
 ![Shell Scripting](https://img.shields.io/badge/Shell-Bash%20Scripting-blueviolet?style=flat-square&logo=gnu-bash)
 
----
+====
 
 ### **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-Containerization-purple?style=flat-square&logo=docker)  
