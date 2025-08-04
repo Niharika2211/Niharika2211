@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niharika Bapatla</h1>
-<h3 align="center">👩‍💻 I'm a DevOps Engineer with 4.5 years of experience in AWS, Ansible||Terraform||Kubernetes||Docker||GitHub Actions||Jenkins, ArgoCD||Prometheus||Grafana and end-to-end CI/CD automation</h3>
+<h3 align="center">👩‍💻 I'm a DevOps Engineer with 4.5 years of experience in AWS, Ansible || Terraform || Kubernetes || Docker || GitHub Actions|| Jenkins || ArgoCD || Prometheus || Grafana and end-to-end CI/CD automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niahrika-Bapatla&label=Profile%20views&color=blueviolet&style=plastic" alt="Niha-Bapatla" /> </p>
 
