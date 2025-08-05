@@ -25,7 +25,7 @@
 ---
 
 ### **Cloud**
-![AWS](https://img.shields.io/badge/AWS-VPC%2C%20EC2%2C%20Elastic%20Load%20Balancer%20(ELB)%20Auto%20Scaling%20Groups%20(ASG)%2C%20IAM%2C%20S3%2C%20ROUTE53%2C%20CLOUDWATCH%2C%20CLOUDFRONT%2C%20SECRETMANAGER-0f1689?style=flat-square&logo=amazonaws)  
+![AWS](https://img.shields.io/badge/AWS-VPC%2C%20EC2%2C%20Elastic%20Load%20Balancer%20(ELB)%20Auto%20Scaling%20Groups%20(ASG)%2C%20IAM%2C%20S3%2C%20ROUTE53%2C%20CLOUDWATCH%2C%20CLOUDFRONT%2C%20SECRETMANAGER-green?style=flat-square&logo=amazonaws)  
 
 ---
 
